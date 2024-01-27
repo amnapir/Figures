@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T12:58:36.821Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15" etag="H5zUx9zG5XzZoRLNZu8a" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-27T13:02:48.088Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15" etag="ICt0jLFTn-uPcqGz7O9k" version="23.0.2" type="github">
   <diagram name="Page-1" id="ccUVzqAUSEyJ6sIZD1O4">
-    <mxGraphModel dx="1863" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1471" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,12 +29,6 @@
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Integration in&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9daL2sqV7IDUxvltfh16-12">
           <mxGeometry x="103" y="102" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="9daL2sqV7IDUxvltfh16-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="860" y="260" as="sourcePoint" />
-            <mxPoint x="630" y="259.5" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-27" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Support: +/-&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Solution Space:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt; - assign to critical roles&lt;div&gt;&amp;nbsp; - assign to supporting roles&lt;/div&gt;&lt;div&gt;&amp;nbsp; - everybody&#39;s responsibility&lt;/div&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=30;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="660" y="175" width="180" height="80" as="geometry" />
@@ -198,7 +192,7 @@
         <mxCell id="9daL2sqV7IDUxvltfh16-143" value="(P5) positively impacts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="721" y="564" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9daL2sqV7IDUxvltfh16-144" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; Target&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="9daL2sqV7IDUxvltfh16-144" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; Allocation of HF Expertise&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="860" y="157" width="200" height="210" as="geometry">
             <mxRectangle x="530" y="180" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -217,6 +211,16 @@
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-148" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;assigned to&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9daL2sqV7IDUxvltfh16-144">
           <mxGeometry x="103" y="102" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9daL2sqV7IDUxvltfh16-164" value="" style="curved=1;endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9daL2sqV7IDUxvltfh16-144">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="150" as="sourcePoint" />
+            <mxPoint x="91.2" y="231" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="561.2" y="61" />
+              <mxPoint x="250" y="100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
