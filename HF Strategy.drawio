@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T12:20:32.927Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15" etag="sz3vJLtyBBR-AqMqa0fE" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-27T12:20:44.478Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15" etag="aBwLmNEDFGf2Jv-LRxv2" version="23.0.2" type="github">
   <diagram name="Page-1" id="ccUVzqAUSEyJ6sIZD1O4">
     <mxGraphModel dx="1330" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -132,7 +132,7 @@
           <mxGeometry x="781" y="625" width="208" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-60" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; Workstream" style="swimlane;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="50" y="508" width="200" height="210" as="geometry">
+          <mxGeometry x="54" y="508" width="200" height="210" as="geometry">
             <mxRectangle x="530" y="180" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
