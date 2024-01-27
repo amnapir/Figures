@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T13:02:48.088Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15" etag="ICt0jLFTn-uPcqGz7O9k" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-27T13:03:35.698Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15" etag="9Kqk0pjPVgGfSWI40wXT" version="23.0.2" type="github">
   <diagram name="Page-1" id="ccUVzqAUSEyJ6sIZD1O4">
     <mxGraphModel dx="1471" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -31,13 +31,13 @@
           <mxGeometry x="103" y="102" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-27" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Support: +/-&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Solution Space:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt; - assign to critical roles&lt;div&gt;&amp;nbsp; - assign to supporting roles&lt;/div&gt;&lt;div&gt;&amp;nbsp; - everybody&#39;s responsibility&lt;/div&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=30;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="660" y="175" width="180" height="80" as="geometry" />
+          <mxGeometry x="630" y="20" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-33" value="(P1) clarity positively impacts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="157" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-34" value="(P2) required" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="681" y="148" width="90" height="30" as="geometry" />
+          <mxGeometry x="720" y="100" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9daL2sqV7IDUxvltfh16-6" target="9daL2sqV7IDUxvltfh16-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -46,10 +46,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-89" value="&lt;b&gt;Support: (+)&lt;br&gt;Solution Space:&lt;/b&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;- Separated or integrated HF workstream" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=30;align=left;fillColor=#6BBD1A;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="270" y="911" width="180" height="70" as="geometry" />
+          <mxGeometry x="270" y="1041" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-90" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; Target&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="484.5" y="881" width="200" height="210" as="geometry">
+          <mxGeometry x="484.5" y="1011" width="200" height="210" as="geometry">
             <mxRectangle x="530" y="180" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -69,46 +69,46 @@
           <mxGeometry x="103" y="102" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-95" value="Life Cycle Model for HF Req" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="905" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="1035" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9daL2sqV7IDUxvltfh16-95" target="9daL2sqV7IDUxvltfh16-90">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="581" y="1050" as="sourcePoint" />
-            <mxPoint x="711" y="970" as="targetPoint" />
+            <mxPoint x="581" y="1180" as="sourcePoint" />
+            <mxPoint x="711" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-97" value="&lt;b style=&quot;border-color: var(--border-color); caret-color: rgb(255, 255, 255);&quot;&gt;Support: (+)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Solution Space:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;-&amp;nbsp;&lt;/b&gt;&amp;nbsp;rely on agile methods&lt;div style=&quot;border-color: var(--border-color); caret-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp; - more than one lifecycle model&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); caret-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp; - short sprints vs long iterations&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=30;align=left;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="757" y="850" width="206" height="80" as="geometry" />
+          <mxGeometry x="757" y="980" width="206" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-98" value="Decomposition of HF Req." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-99" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1000" y="1070" as="sourcePoint" />
-            <mxPoint x="684.5" y="1069.78" as="targetPoint" />
+            <mxPoint x="1000" y="1200" as="sourcePoint" />
+            <mxPoint x="684.5" y="1199.78" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-100" value="(P7) positively impacts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="281" y="881" width="140" height="30" as="geometry" />
+          <mxGeometry x="281" y="1011" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-101" value="(P6) strength positively impacts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="747" y="820" width="190" height="30" as="geometry" />
+          <mxGeometry x="747" y="950" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-102" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9daL2sqV7IDUxvltfh16-90">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="241" y="985" as="sourcePoint" />
-            <mxPoint x="631" y="980" as="targetPoint" />
+            <mxPoint x="241" y="1115" as="sourcePoint" />
+            <mxPoint x="631" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-103" value="(P8) clarity positively impacts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="752" y="968" width="180" height="30" as="geometry" />
+          <mxGeometry x="752" y="1098" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-104" value="&lt;b&gt;Support: (+)&lt;br&gt;Solution Space:&lt;br&gt;&amp;nbsp;&lt;/b&gt;&amp;nbsp;- Explicit plan for HF or not end note" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=30;align=left;fillColor=#6BBD1A;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="757" y="995" width="190" height="70" as="geometry" />
+          <mxGeometry x="757" y="1125" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-105" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; Workstream" style="swimlane;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="41" y="880" width="200" height="210" as="geometry">
+          <mxGeometry x="41" y="1010" width="200" height="210" as="geometry">
             <mxRectangle x="530" y="180" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -128,13 +128,13 @@
           <mxGeometry x="98" y="104" width="77" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-127" value="&lt;b&gt;Support: (+)&lt;br&gt;Solution Space:&lt;br&gt;&amp;nbsp; - S&lt;/b&gt;pecialized structure for HF req&lt;div&gt;&amp;nbsp; - Generic req structure&lt;/div&gt;&lt;div&gt;&amp;nbsp; - Labeling of HF req&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=30;align=left;fillColor=#6BBD1A;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="190" y="526" width="190" height="70" as="geometry" />
+          <mxGeometry x="190" y="656" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-128" value="HF Req. Structure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="571" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="701" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-129" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; Target&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="430" y="496" width="200" height="210" as="geometry">
+          <mxGeometry x="430" y="626" width="200" height="210" as="geometry">
             <mxRectangle x="530" y="180" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -154,46 +154,46 @@
           <mxGeometry x="103" y="102" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-134" value="HF Req Tracebility&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="514" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="644" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-135" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9daL2sqV7IDUxvltfh16-134">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="659" as="sourcePoint" />
-            <mxPoint x="630" y="541.5" as="targetPoint" />
+            <mxPoint x="500" y="789" as="sourcePoint" />
+            <mxPoint x="630" y="671.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-136" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Support: +/-&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Solution Space:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt; - P&lt;/span&gt;rovide specific traceability model for HF&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; - Integrated in general traceability model&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; - Do not use traceability for product development&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=30;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="679" y="457" width="270" height="80" as="geometry" />
+          <mxGeometry x="679" y="587" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-137" value="Decomposition of HF Req." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="658" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="788" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-138" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9daL2sqV7IDUxvltfh16-137">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="803" as="sourcePoint" />
-            <mxPoint x="630" y="685" as="targetPoint" />
+            <mxPoint x="500" y="933" as="sourcePoint" />
+            <mxPoint x="630" y="815" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-139" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Support: +/-&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Solution Space: &lt;br&gt;&amp;nbsp; - &lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Decompose top-down&lt;div&gt;&amp;nbsp; - HF requirements on the highest level decomposed into system requirements&lt;/div&gt;&lt;div&gt;&amp;nbsp; - Treat as emergent property&amp;nbsp;&lt;/div&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=30;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="679" y="590" width="287" height="90" as="geometry" />
+          <mxGeometry x="679" y="720" width="287" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-140" value="(P3) clarity positively impacts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="497" width="180" height="30" as="geometry" />
+          <mxGeometry x="180" y="627" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-141" value="(P4) clarity positively impacts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="720" y="430" width="180" height="30" as="geometry" />
+          <mxGeometry x="720" y="560" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-142" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9daL2sqV7IDUxvltfh16-128" target="9daL2sqV7IDUxvltfh16-129">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="646" as="sourcePoint" />
-            <mxPoint x="550" y="596" as="targetPoint" />
+            <mxPoint x="500" y="776" as="sourcePoint" />
+            <mxPoint x="550" y="726" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-143" value="(P5) positively impacts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="721" y="564" width="140" height="30" as="geometry" />
+          <mxGeometry x="721" y="694" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9daL2sqV7IDUxvltfh16-144" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; Allocation of HF Expertise&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="860" y="157" width="200" height="210" as="geometry">
+          <mxGeometry x="732" y="156" width="200" height="210" as="geometry">
             <mxRectangle x="530" y="180" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
