@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T19:37:42.584Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15" etag="KWw_4zBNbAsrdBvfGH0t" version="23.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-29T19:41:22.509Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15" etag="mKb8rmp9xMd2OGvKzgud" version="23.0.2" type="github" pages="4">
   <diagram id="X_UXevi6lsKnUcApqdjO" name="Page-2">
     <mxGraphModel dx="954" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -797,10 +797,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="upx3wQzEZahAD6QFDcjs-1" value="HF Ownership and Responsibility&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="480" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="404" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="upx3wQzEZahAD6QFDcjs-3" value="Plan for Review &amp;amp; Reflection &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="100" y="643" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="643" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="upx3wQzEZahAD6QFDcjs-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="upx3wQzEZahAD6QFDcjs-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -855,12 +855,12 @@
           <mxGeometry x="103" y="102" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="upx3wQzEZahAD6QFDcjs-17" value="HF Requirements Structure" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="686" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="upx3wQzEZahAD6QFDcjs-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1000" y="710" as="sourcePoint" />
-            <mxPoint x="640" y="711.5" as="targetPoint" />
+            <mxPoint x="1000" y="724" as="sourcePoint" />
+            <mxPoint x="640" y="725.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="upx3wQzEZahAD6QFDcjs-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -870,7 +870,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="upx3wQzEZahAD6QFDcjs-22" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; Allocation of HF Expertise&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="920" y="352" width="200" height="210" as="geometry">
+          <mxGeometry x="920" y="362" width="200" height="210" as="geometry">
             <mxRectangle x="530" y="180" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -891,11 +891,11 @@
         </mxCell>
         <mxCell id="upx3wQzEZahAD6QFDcjs-27" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="920" y="440" as="sourcePoint" />
-            <mxPoint x="600.0000000000002" y="440" as="targetPoint" />
+            <mxPoint x="920" y="453.29" as="sourcePoint" />
+            <mxPoint x="600.0000000000002" y="453.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="upx3wQzEZahAD6QFDcjs-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="upx3wQzEZahAD6QFDcjs-12">
+        <mxCell id="upx3wQzEZahAD6QFDcjs-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=-0.167;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="upx3wQzEZahAD6QFDcjs-12" source="upx3wQzEZahAD6QFDcjs-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="450" as="sourcePoint" />
             <mxPoint x="620" y="270" as="targetPoint" />
@@ -955,7 +955,7 @@
           <mxGeometry x="36.72473867595819" y="4" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upx3wQzEZahAD6QFDcjs-46" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="755" y="592" width="210" height="101" as="geometry" />
+          <mxGeometry x="755" y="602" width="210" height="101" as="geometry" />
         </mxCell>
         <mxCell id="upx3wQzEZahAD6QFDcjs-47" value="&lt;b&gt;Support: (+)&lt;br&gt;Solution Space:&lt;br&gt;&amp;nbsp; - S&lt;/b&gt;pecialized structure for HF requirements&lt;div&gt;&amp;nbsp; - Generic requirements structure&lt;/div&gt;&lt;div&gt;&amp;nbsp; - Labelling of HF requirements&amp;nbsp;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=30;align=left;fillColor=#6BBD1A;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="upx3wQzEZahAD6QFDcjs-46">
           <mxGeometry x="-60" y="38" width="270" height="70" as="geometry" />
@@ -973,7 +973,7 @@
           <mxGeometry x="-7" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upx3wQzEZahAD6QFDcjs-52" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="660" y="323" width="180" height="110" as="geometry" />
+          <mxGeometry x="660" y="338" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="upx3wQzEZahAD6QFDcjs-53" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Support: +/-&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Solution Space:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt; - Assign to critical roles&lt;div&gt;&amp;nbsp; - Assign to supporting roles&lt;/div&gt;&lt;div&gt;&amp;nbsp; - Everybody&#39;s responsibility&lt;/div&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=30;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="upx3wQzEZahAD6QFDcjs-52">
           <mxGeometry y="30" width="180" height="80" as="geometry" />
@@ -982,10 +982,10 @@
           <mxGeometry x="-7" y="4" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upx3wQzEZahAD6QFDcjs-55" value="Life Cycle Model for HF Requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="89" y="793" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="788" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="upx3wQzEZahAD6QFDcjs-57" value="HF Requirements Tracebility" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="89" y="885" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="886" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="upx3wQzEZahAD6QFDcjs-58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1008,14 +1008,14 @@
         <mxCell id="upx3wQzEZahAD6QFDcjs-61" value="(P4) clarity positively impacts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="upx3wQzEZahAD6QFDcjs-59">
           <mxGeometry x="-10" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="upx3wQzEZahAD6QFDcjs-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="upx3wQzEZahAD6QFDcjs-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="upx3wQzEZahAD6QFDcjs-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="209.00000000000023" y="832" as="sourcePoint" />
             <mxPoint x="440" y="832" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KfwljPDYinXNC2_CDxY0-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; Allocation of HF Expertise&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="920" y="800" width="200" height="210" as="geometry">
+          <mxGeometry x="920" y="788" width="200" height="210" as="geometry">
             <mxRectangle x="530" y="180" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
