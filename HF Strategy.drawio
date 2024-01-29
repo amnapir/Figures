@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T19:41:22.509Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15" etag="mKb8rmp9xMd2OGvKzgud" version="23.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-29T19:43:22.757Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15" etag="FZYBp56I2kOYghUFSafp" version="23.0.2" type="github" pages="4">
   <diagram id="X_UXevi6lsKnUcApqdjO" name="Page-2">
     <mxGraphModel dx="954" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -792,7 +792,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8Ie72IY9fhG0LtyNKNFg" name="Page-4">
-    <mxGraphModel dx="1363" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="795" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1014,15 +1014,15 @@
             <mxPoint x="440" y="832" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KfwljPDYinXNC2_CDxY0-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; Allocation of HF Expertise&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="KfwljPDYinXNC2_CDxY0-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; Decomposition" style="swimlane;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="920" y="788" width="200" height="210" as="geometry">
             <mxRectangle x="530" y="180" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KfwljPDYinXNC2_CDxY0-4" value="HF Expertise" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="KfwljPDYinXNC2_CDxY0-3">
+        <mxCell id="KfwljPDYinXNC2_CDxY0-4" value="Decomposition of HF Requirements&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="KfwljPDYinXNC2_CDxY0-3">
           <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KfwljPDYinXNC2_CDxY0-5" value="Critical Roles" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="KfwljPDYinXNC2_CDxY0-3">
+        <mxCell id="KfwljPDYinXNC2_CDxY0-5" value="Organisational Levels" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="KfwljPDYinXNC2_CDxY0-3">
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KfwljPDYinXNC2_CDxY0-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KfwljPDYinXNC2_CDxY0-3" source="KfwljPDYinXNC2_CDxY0-4" target="KfwljPDYinXNC2_CDxY0-5">
