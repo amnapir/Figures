@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T19:27:28.617Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15" etag="DbB8gSwAagM1mmmADJx_" version="23.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-29T19:37:42.584Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15" etag="KWw_4zBNbAsrdBvfGH0t" version="23.0.2" type="github" pages="4">
   <diagram id="X_UXevi6lsKnUcApqdjO" name="Page-2">
     <mxGraphModel dx="954" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -792,7 +792,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8Ie72IY9fhG0LtyNKNFg" name="Page-4">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -855,12 +855,12 @@
           <mxGeometry x="103" y="102" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="upx3wQzEZahAD6QFDcjs-17" value="HF Requirements Structure" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="upx3wQzEZahAD6QFDcjs-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1000" y="687" as="sourcePoint" />
-            <mxPoint x="640" y="688.5" as="targetPoint" />
+            <mxPoint x="1000" y="710" as="sourcePoint" />
+            <mxPoint x="640" y="711.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="upx3wQzEZahAD6QFDcjs-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -910,7 +910,7 @@
         <mxCell id="upx3wQzEZahAD6QFDcjs-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="900" as="sourcePoint" />
-            <mxPoint x="910" y="940" as="targetPoint" />
+            <mxPoint x="920" y="940" as="targetPoint" />
             <Array as="points">
               <mxPoint x="620" y="940" />
               <mxPoint x="680" y="940" />
@@ -955,7 +955,7 @@
           <mxGeometry x="36.72473867595819" y="4" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upx3wQzEZahAD6QFDcjs-46" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="740" y="575" width="210" height="101" as="geometry" />
+          <mxGeometry x="755" y="592" width="210" height="101" as="geometry" />
         </mxCell>
         <mxCell id="upx3wQzEZahAD6QFDcjs-47" value="&lt;b&gt;Support: (+)&lt;br&gt;Solution Space:&lt;br&gt;&amp;nbsp; - S&lt;/b&gt;pecialized structure for HF requirements&lt;div&gt;&amp;nbsp; - Generic requirements structure&lt;/div&gt;&lt;div&gt;&amp;nbsp; - Labelling of HF requirements&amp;nbsp;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=30;align=left;fillColor=#6BBD1A;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="upx3wQzEZahAD6QFDcjs-46">
           <mxGeometry x="-60" y="38" width="270" height="70" as="geometry" />
@@ -1014,14 +1014,25 @@
             <mxPoint x="440" y="832" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="upx3wQzEZahAD6QFDcjs-72" value="Decomposition of HF Requirements&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="950" y="820" width="120" height="60" as="geometry" />
+        <mxCell id="KfwljPDYinXNC2_CDxY0-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; Allocation of HF Expertise&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="920" y="800" width="200" height="210" as="geometry">
+            <mxRectangle x="530" y="180" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="upx3wQzEZahAD6QFDcjs-73" value="Organisational Level" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="950" y="930" width="120" height="60" as="geometry" />
+        <mxCell id="KfwljPDYinXNC2_CDxY0-4" value="HF Expertise" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="KfwljPDYinXNC2_CDxY0-3">
+          <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="upx3wQzEZahAD6QFDcjs-74" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;according to&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1013" y="892" width="60" height="20" as="geometry" />
+        <mxCell id="KfwljPDYinXNC2_CDxY0-5" value="Critical Roles" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="KfwljPDYinXNC2_CDxY0-3">
+          <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KfwljPDYinXNC2_CDxY0-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KfwljPDYinXNC2_CDxY0-3" source="KfwljPDYinXNC2_CDxY0-4" target="KfwljPDYinXNC2_CDxY0-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="200" as="sourcePoint" />
+            <mxPoint x="130" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="upx3wQzEZahAD6QFDcjs-74" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;according to&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KfwljPDYinXNC2_CDxY0-3">
+          <mxGeometry x="110" y="100" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
