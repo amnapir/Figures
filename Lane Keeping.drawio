@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T15:39:27.681Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="9ia08j8anELaOpqR6DbD" version="24.4.14" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-13T14:45:21.895Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="hg3CfsLWun1uYKBwSNRY" version="24.5.4" type="github" pages="2">
   <diagram name="Page-1" id="bfJ2R7E-ke-Gwd9Lfkkl">
-    <mxGraphModel dx="1354" dy="1365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1790" dy="1600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,16 +50,16 @@
         <mxCell id="8BdYeJdRvbSlGnDibgxU-14" value="&lt;span style=&quot;text-align: start; white-space: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;Technical solution and system behavior specifications&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="310" y="-350" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vDmQn4tInLejLzpt7jRN-1" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;Lane keeping&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="vDmQn4tInLejLzpt7jRN-1" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;FR: Lane keeping&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="220" y="-30" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vDmQn4tInLejLzpt7jRN-2" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;FR2:&amp;nbsp;&lt;span style=&quot;text-align: start;&quot;&gt;Steering control&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="vDmQn4tInLejLzpt7jRN-2" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;SR2:&amp;nbsp;&lt;span style=&quot;text-align: start;&quot;&gt;Steering control&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="230" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vDmQn4tInLejLzpt7jRN-3" value="&lt;span style=&quot;font-size: 14px; text-align: start;&quot;&gt;FRn: Others&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="vDmQn4tInLejLzpt7jRN-3" value="&lt;span style=&quot;font-size: 14px; text-align: start;&quot;&gt;SRn: Others&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="380" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vDmQn4tInLejLzpt7jRN-4" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;FR1:&amp;nbsp;&lt;span style=&quot;text-align: start;&quot;&gt;Lane detection&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="vDmQn4tInLejLzpt7jRN-4" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;SR1:&amp;nbsp;&lt;span style=&quot;text-align: start;&quot;&gt;Lane detection&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="80" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vDmQn4tInLejLzpt7jRN-5" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="vDmQn4tInLejLzpt7jRN-1" target="vDmQn4tInLejLzpt7jRN-4" edge="1">
@@ -89,23 +89,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vDmQn4tInLejLzpt7jRN-8" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;SR1: Identification of LaneMarkings&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="250" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vDmQn4tInLejLzpt7jRN-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;SR2: Vision Processing&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="vDmQn4tInLejLzpt7jRN-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;SWR1: Vision Processing&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="60" y="250" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vDmQn4tInLejLzpt7jRN-10" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;SR3:&amp;nbsp;&lt;span style=&quot;text-align: start;&quot;&gt;Sensor Fusion&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="vDmQn4tInLejLzpt7jRN-10" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;SWR2:&amp;nbsp;&lt;span style=&quot;text-align: start;&quot;&gt;Sensor Fusion&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="200" y="250" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vDmQn4tInLejLzpt7jRN-11" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vDmQn4tInLejLzpt7jRN-4" target="vDmQn4tInLejLzpt7jRN-8" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="65" as="sourcePoint" />
-            <mxPoint x="150" y="130" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="90" y="160" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="vDmQn4tInLejLzpt7jRN-12" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="vDmQn4tInLejLzpt7jRN-4" target="vDmQn4tInLejLzpt7jRN-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -125,7 +113,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vDmQn4tInLejLzpt7jRN-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;SR4:&amp;nbsp;&lt;span style=&quot;text-align: start;&quot;&gt;Real-time Data Processing&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="vDmQn4tInLejLzpt7jRN-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;SWR3: Steering Calculation&lt;span style=&quot;text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="340" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vDmQn4tInLejLzpt7jRN-22" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;SRn: Others&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
@@ -201,7 +189,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mDLkqQFi9lk0Xh_1n3Y_-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vDmQn4tInLejLzpt7jRN-4" target="vDmQn4tInLejLzpt7jRN-22">
+        <mxCell id="mDLkqQFi9lk0Xh_1n3Y_-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vDmQn4tInLejLzpt7jRN-4" target="vDmQn4tInLejLzpt7jRN-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="270" as="sourcePoint" />
             <mxPoint x="180" y="220" as="targetPoint" />
