@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T09:24:21.455Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="Lz3lQLxiSWy024DdcyL1" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T10:29:06.055Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="VpK_uaYf4t1OHrrT4J5C" version="24.5.2" type="github">
   <diagram name="Page-1" id="5Qsyt-Jm_kw8wom_rRO_">
     <mxGraphModel dx="1390" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -300,9 +300,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="1794" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1030" y="1754" />
-              <mxPoint x="650" y="1754" />
-              <mxPoint x="650" y="1794" />
+              <mxPoint x="1030" y="1770" />
+              <mxPoint x="650" y="1770" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -329,8 +328,8 @@
             <mxPoint x="1175" y="1604" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1100" y="1604" />
-              <mxPoint x="1100" y="1764" />
-              <mxPoint x="675" y="1764" />
+              <mxPoint x="1100" y="1780" />
+              <mxPoint x="675" y="1780" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -404,6 +403,17 @@
         </mxCell>
         <mxCell id="URFh4zC86MIUT21euN6k-96" value="Solution propositions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="610" y="1959" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="URFh4zC86MIUT21euN6k-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="URFh4zC86MIUT21euN6k-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="492" y="1794" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="872" y="1750" />
+              <mxPoint x="600" y="1750" />
+              <mxPoint x="600" y="1989" />
+            </Array>
+            <mxPoint x="872" y="1734" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
